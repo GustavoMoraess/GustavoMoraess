@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @GustavoMoraess
+## 👋 Hi, I’m **Gustavo Moraes**!
 <!--
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java, Python, HTML and SQL
